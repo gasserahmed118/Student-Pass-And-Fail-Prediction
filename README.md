@@ -18,14 +18,23 @@ The dataset used is [Student Performance Dataset](https://archive.ics.uci.edu/ml
 ## Project Structure
 
 student-pass-fail-prediction/
+
 │
+
 ├── data/
+
 │ └── student-mat-pass-or-fail.csv # Input dataset
+
 ├── src/
+
 │ └── main.py # Main Python script with models
+
 ├── notebooks/
+
 │ └── EDA.ipynb # Optional exploratory data analysis
+
 ├── requirements.txt # Python dependencies
+
 └── README.md # Project overview and instructions
 
 ## Output:
